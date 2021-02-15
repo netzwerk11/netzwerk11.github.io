@@ -3,11 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+permalink: /
 ---
 
-# NETZWERK11 – AHLEM-BADENSTEDT-DAVENSTEDT
+# Über
 
-Im Stadtbezirk 11 wohnen derzeit ca. 400 Geflüchtete in den verschiedenen Unterkünften:
+Im Stadtbezirk 11 - Ahlem-Badenstedt-Davenstedt - wohnen derzeit ca. 400 Geflüchtete in den verschiedenen Unterkünften:
 
 - Wohnheim Am Bahndamm
 - Wohnheim Am Nordhang

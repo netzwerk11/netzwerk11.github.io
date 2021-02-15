@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Über
 permalink: /
 ---
-
-# Über
 
 Im Stadtbezirk 11 - Ahlem-Badenstedt-Davenstedt - wohnen derzeit ca. 400 Geflüchtete in den verschiedenen Unterkünften:
 

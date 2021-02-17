@@ -2,28 +2,53 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   padding-top: 10px;
   padding-bottom: 10px;
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
+  background-color: #fff;
+}
+
+.head-border {
+  border-top: 6px solid $pink-color;
+  padding-top: 12px
 }
 
 .site-title {
   @include relative-font-size(2.43);
-  font-weight: 600;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 900;
+  font-style: italic;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: 0px;
   margin-bottom: 0;
   float: left;
+  color: $pink-color;
 
-  &,
   &:visited {
-    color: $grey-color-dark;
+    color: $pink-color;
   }
+
+  &:hover {
+    color: darken($pink-color, 5%);
+    text-decoration: underline;
+  }
+}
+
+.site-undertitle {
+  @include relative-font-size(1.3);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 900;
+  font-style: italic;
+  line-height: $base-line-height * $base-font-size * 0.7;
+  direction: rtl;
+  letter-spacing: 0px;
+  margin-bottom: 0;
+  float: left;
+  color: $pink-color;
 }
 
 .site-nav {
@@ -39,7 +64,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $grey-color-dark;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -50,10 +75,10 @@
 
   @include media-query($on-palm) {
     position: absolute;
-    top: 9px;
+    top: auto;
     right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    background-color: #fff;
+    border: 1px solid $pink-color;
     border-radius: 5px;
     text-align: right;
 
@@ -76,7 +101,7 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        fill: $pink-color;
       }
     }
 
@@ -108,8 +133,8 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: $grey-color-darkest;
 }
 
 .footer-heading {
@@ -125,7 +150,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: $grey-color-light;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }

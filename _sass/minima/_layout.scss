@@ -162,8 +162,8 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
@@ -171,10 +171,10 @@
   width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
-}
+// .footer-col-3 {
+//   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+//   width:         calc(45% - (#{$spacing-unit} / 2));
+// }
 
 @include media-query($on-laptop) {
   .footer-col-1,
@@ -183,10 +183,10 @@
     width:         calc(50% - (#{$spacing-unit} / 2));
   }
 
-  .footer-col-3 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
-  }
+  // .footer-col-3 {
+  //   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+  //   width:         calc(100% - (#{$spacing-unit} / 2));
+  // }
 }
 
 @include media-query($on-palm) {
@@ -234,6 +234,10 @@
   @include relative-font-size(1.5);
 }
 
+.u-email {
+  color: $text-color;
+}
+
 
 
 /**
@@ -244,6 +248,7 @@
 }
 
 .post-title {
+  color: $text-color;
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;

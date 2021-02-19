@@ -5,22 +5,21 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        <small>&copy; {{ "now" | date: "%Y" }} - <a href="/impressum/">Impressum</a> - <a href="/datenschutz/">Datenschutz</a><br/>Coded with &hearts; by <a href="https://github.com/piano337">@piano337</a></small>
+      </div>
+
+      <div class="footer-col footer-col-2">
         <ul class="contact-list">
           <li class="p-name"><b>{{ site.title | escape }}</b></li>
-          <li class="p-name"> {{ site.author | escape }}</li>
           {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <small>&copy; {{ "now" | date: "%Y" }} - <a href="/impressum/">Impressum</a></small>
-      </div>
-
-      <div class="footer-col footer-col-3">
+      <!-- <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
-      </div>
+      </div> -->
     </div>
 
   </div>

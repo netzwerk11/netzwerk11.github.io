@@ -6,12 +6,19 @@ description: >-
 
 baseurl: ""
 url: ""
-permalink: :categories/:year:month:day/:title
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  news:
+    permalink: news/:year:month:day/:title
+    output: true
+  projects:
+    permalink: projekte/:year:month:day/:title
+    output: true
 
 include:
   - _pages

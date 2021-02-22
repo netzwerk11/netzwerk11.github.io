@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: page
 title: Projekte
 permalink: /projekte/
 ---

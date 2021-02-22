@@ -106,10 +106,12 @@ a {
   color: lighten($pink-color, 45%);
   text-decoration: none;
 
+  /*
   &:visited {
     color: darken(#fff, 15%);
   }
-
+  */
+  
   &:hover {
     text-decoration: underline;
   }
@@ -250,4 +252,8 @@ table {
   td {
     border: 1px solid $grey-color-light;
   }
+}
+
+.debug {
+  color: red;
 }

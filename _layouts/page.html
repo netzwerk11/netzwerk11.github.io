@@ -23,7 +23,7 @@ layout: default
     {%- if post_list.size > 0 -%}
       <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
       <ul class="post-list">
-        {%- for post in post_list -%}
+        {%- for post in post_list reversed -%}
         <li>
           {%- assign date_format = "%d.%m.%Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>

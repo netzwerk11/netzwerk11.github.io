@@ -26,6 +26,8 @@ Folgende Inhalte finden unter anderem Raum:
   (Wie ist das Schulsystem aufgebaut? Was wird von Schüler*innen und den Erziehungsberechtigten erwartet?)
 - Ausbildung und Berufstätigkeit
   (Persönliche Ressourcen,Stärken- und Schwächenanalyse, Kompetenzfeststellug, berufspraktische Einblicke, Berufsorientierung, Erstellen von Bewerbungsunterlagen, Informationen über das deutsche Ausbildungssystem...)
+  
+  ![Postkarte](../../img/sich-oeffnende-blueten.jpg)
 
 Das Projekt wird in enger Zusammenarbeit mit der Jugendwerkstatt Roter Faden
 durchgeführt.
@@ -40,3 +42,5 @@ Bitte melden Sie sich bei Frau Büttner, sofern Sie Frauen kennen, die Interesse
 Esther Büttner  
 0511 43 51 49  
 buettner@roter-faden.eu
+
+![Postkarte](../../img/sich-oeffnende-blueten2.jpg)

@@ -27,7 +27,7 @@ Folgende Inhalte finden unter anderem Raum:
 - Ausbildung und Berufstätigkeit
   (Persönliche Ressourcen,Stärken- und Schwächenanalyse, Kompetenzfeststellug, berufspraktische Einblicke, Berufsorientierung, Erstellen von Bewerbungsunterlagen, Informationen über das deutsche Ausbildungssystem...)
   
-  ![Postkarte](../../img/sich-oeffnende-blueten.jpg)
+  ![Postkarte](../img/sich-oeffnende-blueten.jpg)
 
 Das Projekt wird in enger Zusammenarbeit mit der Jugendwerkstatt Roter Faden
 durchgeführt.

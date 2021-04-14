@@ -6,7 +6,7 @@ date: 2021-04-13
 
 Liebe Interessierte am Netzwerk 11 für Flüchtlingsarbeit,
 
-hiermit lade ich ein zum nächsten Zoom-Treffen am Montag, 19. April 2021, ab 17 Uhr. Die Zugangsdaten finden Sie und findet Ihr unten.
+hiermit lade ich ein zum nächsten Zoom-Treffen am **Montag, 19. April 2021, ab 17 Uhr**. Die Zugangsdaten finden Sie und findet Ihr unten.
 
 Wir hatten uns den Austausch mit dem Integrationsmanagement der Stadt Hannover vorgenommen, aber natürlich wird es wie immer auch um die ganz konkrete Situation im Stadtbezirk 11 gehen.
 
@@ -34,7 +34,7 @@ Uhrzeit: 19.Apr..2021 05:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien
 
 Zoom-Meeting beitreten
 
-https://zoom.us/j/91205518020?pwd=NlZycURVcy8vaTBBT1lndEYzaXVmUT09
+<https://zoom.us/j/91205518020?pwd=NlZycURVcy8vaTBBT1lndEYzaXVmUT09>
 
 
 Meeting-ID: 912 0551 8020

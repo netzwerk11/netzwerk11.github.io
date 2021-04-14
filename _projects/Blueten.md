@@ -43,4 +43,4 @@ Esther Büttner
 0511 43 51 49  
 buettner@roter-faden.eu
 
-![Postkarte](../../img/sich-oeffnende-blueten2.jpg)
+![Postkarte](../img/sich-oeffnende-blueten2.jpg)

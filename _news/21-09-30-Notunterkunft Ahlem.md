@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Informationen zur Notunterkunft im Schulzentrum Ahlem"
-date: 2021-05-06
+date: 2021-09-30
 ---
 
 Beim Netzwerk11-Treffen am Montag haben wir über die Inbetriebnahme der Notunterkunft im ehemaligen Schulzentrum in Ahlem gesprochen. Am 23. September sollen dort die ersten Geflüchteten eintreffen. Frau Sufin, die Stadtbezirksmanagerin für Ahlem, Badenstedt und Davenstedt, hat erklärt, dass die Wiederinbetriebnahme der Notunterkunft notwendig geworden ist, weil das Land Niedersachsen ein höheres Kontingent von Schutzsuchenden der Stadt zuweist.

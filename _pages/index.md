@@ -18,7 +18,7 @@ Im Stadtbezirk 11 – Ahlem-Badenstedt-Davenstedt – wohnen derzeit ca. 400 Gef
 - Wohnprojekt Albrecht-Schaeffer-Weg
 - Wohnprojekt Hermann-Ehlers-Allee  
 
-Weiterhin wurde aktuell die Notunterkunft im Schulzentrum Ahlem wieder eröffnet. Aktuelle Informationen gibt es [hier.](../../news)
+Weiterhin wurde aktuell die Notunterkunft im Schulzentrum Ahlem wieder eröffnet. Aktuelle Informationen gibt es zur Zeit nicht.
 
 Das Netzwerk11 für Flüchtlingshilfe trifft sich jeweils am 3. Montag im Monat im Gemeindehaus der Paul-Gerhardt-Gemeinde um 17 Uhr in Badenstedt. Die Treffen sind öffentlich und alle, die an der Unterstützung von Geflüchteten im Stadtbezirk interessiert sind, sind herzlich eingeladen.  
 Leider können diese Treffen zur Zeit coronabedingt nur online stattfinden. Interessierte können sich   

@@ -53,18 +53,18 @@ Zwecke: Spende Medikamente oder Hilfe für Opfer
 
 **"Bündnis Entwicklung Hilft" und "Aktion Deutschland Hilft"**
  
-IBAN: DE53 200 400 600 200 400 600
-BIC: COBADEFFXXX
-Commerzbank
-Stichwort: ARD/ Nothilfe Ukraine
+IBAN: DE53 200 400 600 200 400 600  
+BIC: COBADEFFXXX  
+Commerzbank  
+Stichwort: ARD/ Nothilfe Ukraine  
 [www.spendenkonto-nothilfe.de](www.spendenkonto-nothilfe.de) 
 
 **Aktionsbündnis Katastrophenhilfe**
 
-Spendenkonto: Commerzbank
-IBAN: DE65 100 400 600 100 400 600
-BIC: COBADEFFXXX
-Stichwort: ZDF Nothilfe Ukraine
+Spendenkonto: Commerzbank  
+IBAN: DE65 100 400 600 100 400 600  
+BIC: COBADEFFXXX  
+Stichwort: ZDF Nothilfe Ukraine  
 Online-Spenden: [aktionsbuendnis-katastrophenhilfe.de](aktionsbuendnis-katastrophenhilfe.de)
 
 # Informationen zur Einreise und zum Aufenthalt in Deutschland:

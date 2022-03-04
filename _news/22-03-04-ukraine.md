@@ -40,15 +40,15 @@ Es wird gewarnt vor unseriösen privaten Anbietern. Besser hier gucken:
  
 [https://uvnev.de/](https://uvnev.de/)
 
-IBAN: DE37251900010707504900
-BIC (SWIFT-Code): VOHADE2HXXX
+IBAN: DE37251900010707504900  
+BIC (SWIFT-Code): VOHADE2HXXX  
 Zweck: Humanitäre Hilfe Ukraine 
 
 **Ukrainische Kirchengemeinde Sankt Wolodymyr**
 [https://www.facebook.com/photo?fbid=4878106815614323](https://www.facebook.com/photo?fbid=4878106815614323)
 
-IBAN: DE36 2504 0066 0123 4632 00
-BIC: COBADEFFXXX
+IBAN: DE36 2504 0066 0123 4632 00  
+BIC: COBADEFFXXX  
 Zwecke: Spende Medikamente oder Hilfe für Opfer 
 
 **"Bündnis Entwicklung Hilft" und "Aktion Deutschland Hilft"**

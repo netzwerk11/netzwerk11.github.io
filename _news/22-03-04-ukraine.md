@@ -14,6 +14,7 @@ Baby-und Kinderprodukte, Hygieneprodukte, Ausrüstung (Zelte, Rucksäcke, Schlaf
 
 **Ukrainische Kirchengemeinde Sankt Wolodymyr**  
 Hannoversche Str. 122, 30627 Hannover 
+
 Medikamente und Verbandsmaterial, Haltbare Lebensmittel. KEINE Kleiderspenden!
 
 [https://uvnev.de/](https://uvnev.de/)
@@ -28,7 +29,7 @@ Es wird gewarnt vor unseriösen privaten Anbietern. Besser hier gucken:
 [https://ukraine.lnob.net/](https://ukraine.lnob.net/)
 
 
-# Hilfe anbieten: (z. B. Als Übersetzer)
+# Hilfe anbieten: (z. B. als Übersetzer)
 
 [https://ukraine.lnob.net/](https://ukraine.lnob.net/)
 

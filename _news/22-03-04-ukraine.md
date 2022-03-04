@@ -6,13 +6,13 @@ date: 2022-03-04
 
 # Sachspenden:
 
-**Sammelstelle für Sachspenden für ukrainische Flüchtlinge**
+**Sammelstelle für Sachspenden für ukrainische Flüchtlinge**  
 Lehrter Platz 3, 30519 Hannover-Mittelfeld, 
 Mo. bis Sa. von 9 – 17.30 Uhr 
 
 Baby-und Kinderprodukte, Hygieneprodukte, Ausrüstung (Zelte, Rucksäcke, Schlafsäcke etc.), Haltbare Lebensmittel
 
-**Ukrainische Kirchengemeinde Sankt Wolodymyr**
+**Ukrainische Kirchengemeinde Sankt Wolodymyr**  
 Hannoversche Str. 122, 30627 Hannover 
 Medikamente und Verbandsmaterial, Haltbare Lebensmittel. KEINE Kleiderspenden!
 

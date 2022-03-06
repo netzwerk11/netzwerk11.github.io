@@ -32,7 +32,7 @@ Es wird gewarnt vor unseriösen privaten Anbietern. Besser hier gucken:
 # Hilfe anbieten: (z. B. als Übersetzer)
 
 [https://ukraine.lnob.net/](https://ukraine.lnob.net/)  
-Beim Unterstützerkreis Flüchtlingsunterkünfte [per Mail](unterstuetzerkreis@uf-hannover.de)
+Beim Unterstützerkreis Flüchtlingsunterkünfte [per Mail](mailto:unterstuetzerkreis@uf-hannover.de)
 
 
 # Geldspenden:

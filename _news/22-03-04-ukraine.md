@@ -71,6 +71,17 @@ Online-Spenden: [aktionsbuendnis-katastrophenhilfe.de](aktionsbuendnis-katastrop
 # Informationen zur Einreise und zum Aufenthalt in Deutschland:  
 Ukrainische Geflüchtete müssen aktuell keinen Asylantrag stellen, sie werden auch so mit Leistungen versorgt. Ab dem 10. März 2022 gibt es für die Anmeldung und Versorgung mit Aufenthaltsdokument, sofern notwendig, regelmäßige Sprechstunden (08:00 – 18:00 Uhr) im Bürgeramt und in der Ausländerbehörde am Schützenplatz. [Willkommensfachdienst – Hannover.de](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Landeshauptstadt-Hannover/Dezernate-und-Fachbereiche-der-LHH/Finanzen,-Ordnung-und-Feuerwehr/Fachbereich-%C3%96ffentliche-Ordnung/Standesamt-und-Staatsangeh%C3%B6rig%C2%ADkeit/Ausl%C3%A4nderangelegen%C2%ADheiten-und-Staatsangeh%C3%B6rigkeit/Willkommensfachdienst)
 
+Ukrainische Staatsangehörige mit einem **biometrischen Pass** dürfen sich erst einmal 90 Tage visumfrei in allen Schengen-Staaten aufhalten (Artikel 4 EU-Visum-Verordnung), also auch in Deutschland. Sie unterliegen keinerlei aufenthaltsrechtlichen Melde- oder Anzeigepflichten. Bei Menschen aus der Ukraine wird derzeit von der Visumspflicht abgesehen, Visaverfahren müssen auch nicht nachgeholt werden.
+Hinweis: Wenn Sie über keinen Pass verfügen, werden Sie erkennungsdienstlich behandelt (Fingerabdrücke, Foto) um Ihre Identität zu überprüfen.
+**Kein Ukrainer muss eine Rückführung oder Abschiebung befürchten.**
+Um ausländerrechtlich beraten zu werden, ein Übergangspapier (eine Übergangsbescheinigung) und später wahrscheinlich einen Aufenthaltstitel für ein Jahr zu bekommen, können Sie bei der lokalen (kommunalen) Ausländerbehörde vorsprechen.
+Es besteht kein Grund zur Eile. Es besteht kein Grund zur Sorge, Bescheinigungen und Titel werden ausgestellt.
+
+Громадянам України з біометричним паспортом дозволено перебувати протягом 90 днів без віз у всіх державах Шенгенської угоди (стаття 4 Візового регламенту ЄС), включаючи Німеччину. Вони не підлягають будь-яким зобов'язанням щодо реєстрації або повідомлення відповідно до законодавства про проживання. Для людей з України візова вимога наразі скасована, візові процедури не повинні бути складені.
+Примітка: якщо у вас немає паспорта, вас ідентифікують (відбитки пальців, фото), щоб підтвердити вашу особу.
+Ви можете звернутися до місцевого (муніципального) імміграційного офісу, щоб отримати консультацію з питань імміграційного законодавства, перехідний документ (перехідне свідоцтво) і пізніше, ймовірно, дозвіл на проживання на один рік.
+Не варто поспішати. Не варто хвилюватися, сертифікати та звання будуть видані.
+
 [https://handbookgermany.de/de/ukraine-info/de.html](https://handbookgermany.de/de/ukraine-info/de.html)  
 [https://tacheles-sozialhilfe.de/aktuelles/archiv/aufenthaltsrecht-und-sozialleistungen-fuer-menschen-aus-der-ukraine.html](https://tacheles-sozialhilfe.de/aktuelles/archiv/aufenthaltsrecht-und-sozialleistungen-fuer-menschen-aus-der-ukraine.html)  
 

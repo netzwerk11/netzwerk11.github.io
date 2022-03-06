@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hilfe für Ukrainer - Eine Übersicht"
+title: "Hilfe für Ukrainer*innen - Eine Übersicht"
 date: 2022-03-04
 ---
 

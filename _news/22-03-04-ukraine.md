@@ -17,8 +17,9 @@ Hannoversche Str. 122, 30627 Hannover
 
 Medikamente und Verbandsmaterial, Haltbare Lebensmittel. KEINE Kleiderspenden!
 
-[https://uvnev.de/](https://uvnev.de/)
+[https://uvnev.de/](https://uvnev.de/)  
 
+Beim Unterstützerkreis Flüchtlingshilfe per [Mail:](unterstuetzerkreis@uf-hannover.de)
 
 # Unterkunft anbieten:
 

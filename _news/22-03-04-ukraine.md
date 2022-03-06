@@ -71,6 +71,7 @@ Online-Spenden: [aktionsbuendnis-katastrophenhilfe.de](aktionsbuendnis-katastrop
 Ukrainische Geflüchtete müssen aktuell keinen Asylantrag stellen, sie werden auch so mit Leistungen versorgt. Ab dem 10. März 2022 gibt es für die Anmeldung und Versorgung mit Aufenthaltsdokument, sofern notwendig, regelmäßige Sprechstunden (08:00 – 18:00 Uhr) im Bürgeramt und in der Ausländerbehörde am Schützenplatz. [Willkommensfachdienst – Hannover.de](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Landeshauptstadt-Hannover/Dezernate-und-Fachbereiche-der-LHH/Finanzen,-Ordnung-und-Feuerwehr/Fachbereich-%C3%96ffentliche-Ordnung/Standesamt-und-Staatsangeh%C3%B6rig%C2%ADkeit/Ausl%C3%A4nderangelegen%C2%ADheiten-und-Staatsangeh%C3%B6rigkeit/Willkommensfachdienst)
 
 [https://handbookgermany.de/de/ukraine-info/de.html](https://handbookgermany.de/de/ukraine-info/de.html)
+[https://tacheles-sozialhilfe.de/aktuelles/archiv/aufenthaltsrecht-und-sozialleistungen-fuer-menschen-aus-der-ukraine.html](https://tacheles-sozialhilfe.de/aktuelles/archiv/aufenthaltsrecht-und-sozialleistungen-fuer-menschen-aus-der-ukraine.html)
  
  
 

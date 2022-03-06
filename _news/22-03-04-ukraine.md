@@ -73,7 +73,7 @@ Ukrainische Geflüchtete müssen aktuell keinen Asylantrag stellen, sie werden a
 
 Ukrainische Staatsangehörige mit einem **biometrischen Pass** dürfen sich erst einmal 90 Tage visumfrei in allen Schengen-Staaten aufhalten (Artikel 4 EU-Visum-Verordnung), also auch in Deutschland. Sie unterliegen keinerlei aufenthaltsrechtlichen Melde- oder Anzeigepflichten. Bei Menschen aus der Ukraine wird derzeit von der Visumspflicht abgesehen, Visaverfahren müssen auch nicht nachgeholt werden.
 Hinweis: Wenn Sie über keinen Pass verfügen, werden Sie erkennungsdienstlich behandelt (Fingerabdrücke, Foto) um Ihre Identität zu überprüfen.
-**Kein Ukrainer muss eine Rückführung oder Abschiebung befürchten.**
+**Ukrainer*innen müssen keine Rückführung oder Abschiebung befürchten.**
 Um ausländerrechtlich beraten zu werden, ein Übergangspapier (eine Übergangsbescheinigung) und später wahrscheinlich einen Aufenthaltstitel für ein Jahr zu bekommen, können Sie bei der lokalen (kommunalen) Ausländerbehörde vorsprechen.
 Es besteht kein Grund zur Eile. Es besteht kein Grund zur Sorge, Bescheinigungen und Titel werden ausgestellt.
 

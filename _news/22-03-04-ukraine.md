@@ -82,6 +82,7 @@ Es besteht kein Grund zur Eile. Es besteht kein Grund zur Sorge, Bescheinigungen
 Ви можете звернутися до місцевого (муніципального) імміграційного офісу, щоб отримати консультацію з питань імміграційного законодавства, перехідний документ (перехідне свідоцтво) і пізніше, ймовірно, дозвіл на проживання на один рік.
 Не варто поспішати. Не варто хвилюватися, сертифікати та звання будуть видані.
 
+[Informationen der Bundesregierung für ukrainische Staatsangehörige und auch Drittstaatsangehörige, die aus der Ukraine geflüchtet sind](https://www.integrationsbeauftragte.de/ib-de/staatsministerin/krieg-in-der-ukraine)
 [https://handbookgermany.de/de/ukraine-info/de.html](https://handbookgermany.de/de/ukraine-info/de.html)  
 [https://tacheles-sozialhilfe.de/aktuelles/archiv/aufenthaltsrecht-und-sozialleistungen-fuer-menschen-aus-der-ukraine.html](https://tacheles-sozialhilfe.de/aktuelles/archiv/aufenthaltsrecht-und-sozialleistungen-fuer-menschen-aus-der-ukraine.html)  
 

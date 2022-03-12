@@ -31,7 +31,7 @@ Es wird gewarnt vor unseriösen privaten Anbietern. Besser hier gucken:
 
 # Hilfe anbieten: (z. B. als Übersetzer)
 
-Koordinierungsstelle der Stadt Hannoverfür die Hilfe für Menschen aus der Ukraine:  
+Koordinierungsstelle der Stadt Hannover für die Hilfe für Menschen aus der Ukraine:  
 Telefon (0511) 16833333 (Montag bis Freitag)  
 Mail: fluechtlinge@hannover-stadt.de  
 

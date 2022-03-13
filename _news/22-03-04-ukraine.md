@@ -39,7 +39,7 @@ Mail: fluechtlinge@hannover-stadt.de
 [https://ukraine.lnob.net/](https://ukraine.lnob.net/)  
 Beim Unterstützerkreis Flüchtlingsunterkünfte [per Mail](mailto:unterstuetzerkreis@uf-hannover.de)
 
-Auch am Hauptbahnhof kommen ebenfalls Geflüchtete an. Hier gibt es einen Stand, an dem den Menschen weitergeholfen wird. Wer hier unterstützen kann, sollte einfach mal vorbeigehen.
+Auch am Hauptbahnhof kommen Geflüchtete an. Hier gibt es einen Stand, an dem den Menschen weitergeholfen wird. Wer hier unterstützen kann, sollte einfach mal vorbeigehen.
 
 
 # Geldspenden:

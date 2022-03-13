@@ -6,7 +6,7 @@ date: 2022-03-04
 
 # Sachspenden:
 
-**Sammelstelle für Sachspenden für ukrainische Flüchtlinge**  
+**Sammelstelle für Sachspenden für Menschen in der Ukraine**  
 Lehrter Platz 3, 30519 Hannover-Mittelfeld, 
 Mo. bis Sa. von 9 – 17.30 Uhr 
 
@@ -27,6 +27,7 @@ Es wird gewarnt vor unseriösen privaten Anbietern. Besser hier gucken:
 
 [https://ukraine.lnob.net/](https://ukraine.lnob.net/)  
 [http://www.unterkunft-ukraine.de](mailto:http://www.unterkunft-ukraine.de)
+[Elinor Network](https://elinor.network/gastfreundschaft-ukraine/)
 
 
 # Hilfe anbieten: (z. B. als Übersetzer)
@@ -35,9 +36,10 @@ Koordinierungsstelle der Stadt Hannover für die Hilfe für Menschen aus der Ukr
 Telefon (0511) 16833333 (Montag bis Freitag)  
 Mail: fluechtlinge@hannover-stadt.de  
 
-
 [https://ukraine.lnob.net/](https://ukraine.lnob.net/)  
 Beim Unterstützerkreis Flüchtlingsunterkünfte [per Mail](mailto:unterstuetzerkreis@uf-hannover.de)
+
+Auch am Hauptbahnhof kommen ebenfalls Geflüchtete an. Hier gibt es einen Stand, an dem den Menschen weitergeholfen wird. Wer hier unterstützen kann, sollte einfach mal vorbeigehen.
 
 
 # Geldspenden:
@@ -74,7 +76,7 @@ Stichwort: ZDF Nothilfe Ukraine
 Online-Spenden: [aktionsbuendnis-katastrophenhilfe.de](aktionsbuendnis-katastrophenhilfe.de)
 
 # Informationen zur Einreise und zum Aufenthalt in Deutschland:  
-Ukrainische Geflüchtete müssen aktuell keinen Asylantrag stellen, sie werden auch so mit Leistungen versorgt. Ab dem 10. März 2022 gibt es für die Anmeldung und Versorgung mit Aufenthaltsdokument, sofern notwendig, regelmäßige Sprechstunden (08:00 – 18:00 Uhr) im Bürgeramt und in der Ausländerbehörde am Schützenplatz. [Willkommensfachdienst – Hannover.de](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Landeshauptstadt-Hannover/Dezernate-und-Fachbereiche-der-LHH/Finanzen,-Ordnung-und-Feuerwehr/Fachbereich-%C3%96ffentliche-Ordnung/Standesamt-und-Staatsangeh%C3%B6rig%C2%ADkeit/Ausl%C3%A4nderangelegen%C2%ADheiten-und-Staatsangeh%C3%B6rigkeit/Willkommensfachdienst)
+Ukrainische Geflüchtete müssen aktuell keinen Asylantrag stellen, sie werden auch so mit Leistungen versorgt. Sie müssen sich aber innerhalb von 90 Tagen bei der Ausländerbehörde registrieren. Das ist ein rein formaler Akt. Ab dem 10. März 2022 gibt es für die Anmeldung und Versorgung mit Aufenthaltsdokument, sofern notwendig, regelmäßige Sprechstunden (08:00 – 18:00 Uhr) im Bürgeramt und in der Ausländerbehörde am Schützenplatz. [Willkommensfachdienst – Hannover.de](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Landeshauptstadt-Hannover/Dezernate-und-Fachbereiche-der-LHH/Finanzen,-Ordnung-und-Feuerwehr/Fachbereich-%C3%96ffentliche-Ordnung/Standesamt-und-Staatsangeh%C3%B6rig%C2%ADkeit/Ausl%C3%A4nderangelegen%C2%ADheiten-und-Staatsangeh%C3%B6rigkeit/Willkommensfachdienst)
 
 Ukrainische Staatsangehörige mit einem **biometrischen Pass** dürfen sich erst einmal 90 Tage visumfrei in allen Schengen-Staaten aufhalten (Artikel 4 EU-Visum-Verordnung), also auch in Deutschland. Sie unterliegen keinerlei aufenthaltsrechtlichen Melde- oder Anzeigepflichten. Bei Menschen aus der Ukraine wird derzeit von der Visumspflicht abgesehen, Visaverfahren müssen auch nicht nachgeholt werden.
 Hinweis: Wenn Sie über keinen Pass verfügen, werden Sie erkennungsdienstlich behandelt (Fingerabdrücke, Foto) um Ihre Identität zu überprüfen.
@@ -91,19 +93,10 @@ Es besteht kein Grund zur Eile. Es besteht kein Grund zur Sorge, Bescheinigungen
 [https://handbookgermany.de/de/ukraine-info/de.html](https://handbookgermany.de/de/ukraine-info/de.html)  
 [https://tacheles-sozialhilfe.de/aktuelles/archiv/aufenthaltsrecht-und-sozialleistungen-fuer-menschen-aus-der-ukraine.html](https://tacheles-sozialhilfe.de/aktuelles/archiv/aufenthaltsrecht-und-sozialleistungen-fuer-menschen-aus-der-ukraine.html)  
 
-Um Sozialleistungen zu bekommen (Sozialhilfe, Geld) zu bekommen müssen ukrainische Geflüchtete vorher nicht bei der Ausländerbehörde gewesen sein.
-Leistungen kriegen Sie unbürokratisch erst einmal beim Sozialamt (Fachbereich Soziales). Dort kriegt man einen Termin, wenn man anruft: **+49 511 168 42472**
-Fachbereich Soziales
-Hamburger Allee 25
-30161 Hannover
+Informationen dazu erhält man bei der **Koordinierungsstelle der Stadt**:  
 
-Для того, щоб отримати соціальні виплати (соціальну допомогу, гроші) або отримати місце для ночівлі, вам не обов’язково бути в імміграційній службі заздалегідь.
-Ви можете безбюрократично отримати пільги в управлінні соціального забезпечення (відділу соціальних питань). Там можна записатися на прийом за телефоном:
-+49 511 168 42472
-Департамент соціальних питань
-Hamburger Allee 25
-30161 Ганновер
-
+Telefon (0511) 16833333 (Montag bis Freitag)  
+Mail: fluechtlinge@hannover-stadt.de
  
  
 

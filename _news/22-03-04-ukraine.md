@@ -80,7 +80,7 @@ Online-Spenden: [aktionsbuendnis-katastrophenhilfe.de](aktionsbuendnis-katastrop
 
 # Informationen zur Einreise und zum Aufenthalt in Deutschland:  
 
-Die wichtigsten Informationen in einem Artikel der HAZ zusammengefasst in (deutsch)[https://www.haz.de/Hannover/Aus-der-Stadt/Ukrainer-in-Hannover-Die-wichtigsten-Informationen-fuer-Gefluechtete?utm_medium=Social&utm_source=Twitter#Echobox=1647433279] und ukrainisch[https://www.haz.de/Hannover/Aus-der-Stadt/Ukrayinci-v-Gannoveri-najvazhlivisha-informaciya-dlya-bizhenciv]
+Die wichtigsten Informationen in einem Artikel der HAZ zusammengefasst in [deutsch](https://www.haz.de/Hannover/Aus-der-Stadt/Ukrainer-in-Hannover-Die-wichtigsten-Informationen-fuer-Gefluechtete?utm_medium=Social&utm_source=Twitter#Echobox=1647433279) und [ukrainisch](https://www.haz.de/Hannover/Aus-der-Stadt/Ukrayinci-v-Gannoveri-najvazhlivisha-informaciya-dlya-bizhenciv)
 
 Ukrainische Geflüchtete müssen aktuell keinen Asylantrag stellen, sie werden auch so mit Leistungen versorgt. Sie müssen sich aber innerhalb von 90 Tagen bei der Ausländerbehörde registrieren. Das ist ein rein formaler Akt. Ab dem 10. März 2022 gibt es für die Anmeldung und Versorgung mit Aufenthaltsdokument, sofern notwendig, regelmäßige Sprechstunden (08:00 – 18:00 Uhr) im Bürgeramt und in der Ausländerbehörde am Schützenplatz. [Willkommensfachdienst – Hannover.de](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Landeshauptstadt-Hannover/Dezernate-und-Fachbereiche-der-LHH/Finanzen,-Ordnung-und-Feuerwehr/Fachbereich-%C3%96ffentliche-Ordnung/Standesamt-und-Staatsangeh%C3%B6rig%C2%ADkeit/Ausl%C3%A4nderangelegen%C2%ADheiten-und-Staatsangeh%C3%B6rigkeit/Willkommensfachdienst)
 

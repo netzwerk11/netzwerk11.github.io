@@ -7,7 +7,7 @@ date: 2022-03-04
 # Sachspenden:
 
 **Sammelstelle für für die Messehalle 26**  
-[Verein "Hannover for Ukraine"](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRhacxj29J38RdwwPFtVBC3yaoryQPNp9wHoFpOWWxPFvA1KfEbhhx_RFBqN2dFS4NVDP9AN8uXCW1N%2Fpubhtml%3Fgid%3D351538947%26single%3Dtrue%26fbclid%3DIwAR2w2FoDZ31qmQ3-V-Ozoh-5KjoOfpQKK-POb2oO6bQ894RrxUqV3Z1YvFo&h=AT1FLoJ6FAvNxD4HYjzqRzMxRppiqBY0_VjYzwqwMcrp0TosLC_A9gJpCclBw2_-lnl5Y3v71YED8QH58-ogrf9ZRjHLU7XYa74zP4piD0XAhK5LUesm1QzykkTKTgExQ5RddkNWnSmgi_ZvkXFR&__tn__=-UK-R&c[0]=AT16uR37IK-B04kFaEFg7qp6TxH9_KkrQgCfGyN1Uxq0mmmNIJEhLtdtUfU6_8AwertO79tzsZpJ6A5bt0dwDMHxytGv2RZwyXc1kzbyYFb5K8G0HtHKh-tfXYa6EZK-tBSKY9nrAnEy05HtijsNklUrn-6eCa0mCDI)
+[Verein "Hannover for Ukraine"](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhacxj29J38RdwwPFtVBC3yaoryQPNp9wHoFpOWWxPFvA1KfEbhhx_RFBqN2dFS4NVDP9AN8uXCW1N/pubhtml?gid=351538947&single=true&fbclid=IwAR2w2FoDZ31qmQ3-V-Ozoh-5KjoOfpQKK-POb2oO6bQ894RrxUqV3Z1YvFo)
 
 **Sammelstelle für Sachspenden für Menschen in der Ukraine**  
 Lehrter Platz 3, 30519 Hannover-Mittelfeld, 

@@ -16,7 +16,7 @@ Dort findet sich auch ein <a href="https://www.hannover.de/Fl%C3%BCchtlinge-in-S
 
 **Solidaritätsscheck für Vermieter**
 
-Für die Bereitstellung privaten Wohnraums bewilligt die Stadt Hannoverauf Antrag bewilligt eine einmalige freiwillige Leistung.
+Für die Bereitstellung privaten Wohnraums bewilligt die Stadt Hannover auf Antrageine einmalige freiwillige Leistung.
 Einzelheiten und Vorraussetzungen <a href="https://www.hannover.de/Service/Presse-Medien/Landeshauptstadt-Hannover/Aktuelle-Meldungen-und-Veranstaltungen/Hannover-Solidarit%C3%A4tsscheck?fbclid=IwAR24IbfZvUcAC_uor5Id2o9Wnoxxetugs--LSLZuQWhjg8iJ0AT9tWWUjQE" target="_blank">hier</a> 
  
  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hilfe bei der Wohnungssuche"
-date: 2021-10-07
+date: 2023-01-14
 ---
 
 Angesichts der generell <br>schlechten Situation auf dem Wohnungsmarkt</br> hat der Niedersächsische Flüchtlingsrat eine Broschüre zum Thema Wohnungssuche für geflüchtete Menschen herausgegeben. Darin enthalten sind Hinweise für Wohnungssuchende, wie sie ihre Erfolgschancen bei der Wohnungssuche verbessern können:

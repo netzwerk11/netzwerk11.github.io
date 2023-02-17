@@ -68,3 +68,18 @@ Tel.:  0511 76309017
 Mail: Albrecht-Schaeffer109@fair-facility.de
 
 
+# **WNotunterkunft Ahlem**
+
+Betreiber: Deutsches Rotes Kreuz
+
+Anschrift:
+
+Petit-Couronne-Straße 30 
+
+30453 Hannover
+
+Telefon: 01705200656
+
+Mail: unterkunft-petitcouronne@drk-hannover.de
+
+

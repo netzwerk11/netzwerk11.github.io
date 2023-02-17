@@ -68,7 +68,7 @@ Tel.:  0511 76309017
 Mail: Albrecht-Schaeffer109@fair-facility.de
 
 
-# **WNotunterkunft Ahlem**
+# **Notunterkunft Ahlem**
 
 Betreiber: Deutsches Rotes Kreuz
 

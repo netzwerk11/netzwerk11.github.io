@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Garten-Projekts“ die Bewohner*innen des Wohnheims Am Bahndamm"
+title: "Garten-Projekt für die Bewohner*innen des Wohnheims Am Bahndamm"
 date: 2023-03-23
 ---
 
@@ -14,7 +14,7 @@ Der Start soltte noch noch im März erfolgen, um die Zeit der Aussaat nicht zu v
 Wer sich vorstellen kann bei diesem schönen Projekt mitzumachen, melde sich bitte bei
  
 Herrn Bach
-Sozialarbeiter / Sozialpädagoge
+Sozialarbeiter / Sozialpädagoge <br>
 Tel.   +49 511 545359-10
 ambahndamm67.hannover@johanniter.de
 

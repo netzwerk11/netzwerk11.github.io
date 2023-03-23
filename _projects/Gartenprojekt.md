@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Garten-Projekts“ die Bewohner*innen des Wohnheims Am Bahndamm"
-date: 2021-02-19
+date: 2023-03-23
 ---
 
 Die Sozialarbeiter*innen des Wohnheims Am Bahndamm 67 in Ahlem planen, im Rahmen eines „Garten-Projekts“ die Bewohner*innen niederschwellig an der Gestaltung ihrer unmittelbaren Umgebung zu beteiligen und so mit ihnen noch mehr und ungezwungen ins Gespräch zu kommen. Als Zielgruppe kommen potentiell alle Bewohner*innen der Unterkunft infrage, besonders zielen sie natürlich auf die Frauen und Kinder, die nach wie vor den überwiegenden Teil der Nutzer*innen des Außengeländes ausmachen. Spezielle Herkünfte sollten keine Rolle spielen, da dort in Ahlem derzeit Bewohner*innen aus wirklich aller Herren Länder beherbergt werden, und das Angebot möglichst niederschwellig gestaltet werden soll.

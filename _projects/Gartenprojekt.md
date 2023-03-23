@@ -10,11 +10,11 @@ Konkret sollen die beiden bereits bestehenden Hochbeete instand gesetzt werden. 
 
 Die Organisation des Projekts würde Herrn Bach von den Johannitern federführend übernehmen. Dazu würde er sich für die praktische Ausführung jemanden wünschen, der Kenntnisse und Erfahrungen im Bereich Gartenpflege hat (vllt. selbst einen Garten besitzt?) und über eigene Ideen, Kreativität, Zeit und Lust verfügt, ein solches Projekt mit Wissen und Tatkraft zu begleiten. Der zeitliche Umfang würde sich vermutlich auf 2 - 4 x  Monat erstrecken (je nach Lust und Kapazität der Beteiligten) für jeweils ein paar Stunden am Nachmittag bzw. nach Absprache. 
 
-Der Start soltte noch noch im März erfolgen, um die Zeit der Aussaat nicht zu verpassen.
+Der Start sollte noch noch im März erfolgen, um die Zeit der Aussaat nicht zu verpassen.
 Wer sich vorstellen kann bei diesem schönen Projekt mitzumachen, melde sich bitte bei
  
 Herrn Bach
 Sozialarbeiter / Sozialpädagoge <br>
-Tel.   +49 511 545359-10
+Tel.   +49 511 545359-10 <br>
 ambahndamm67.hannover@johanniter.de
 

@@ -4,7 +4,7 @@ title: "Informationen zur Notunterkunft im Schulzentrum Ahlem"
 date: 2023-06-05
 ---
 
-Aktuell ist die  Situation in der Notunterkunft Ahlemso, dass dort jetzt ausschließlich einzelreisende Männer untergebracht werden. 
+Aktuell ist die  Situation in der Notunterkunft Ahlem so, dass dort jetzt ausschließlich einzelreisende Männer untergebracht werden. 
 Die Aufenthaltszeit der Bewohner in der Unterkunft hat sich stark verlängert.
 Deshalb möchten wir gemeinsam mit der Leitung der Unterkunft, Frau Wortmann, einen neuen Anlauf nehmen, mehr Angebote für die Bewohner zu schaffen. 
 Dafür benötigen wir mehr Unterstützer*innen.

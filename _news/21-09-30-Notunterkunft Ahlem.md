@@ -14,7 +14,7 @@ Neben dem bereits bestehenden Angeboten, Ordnerprojekt, Laufgruppe und verschied
 
 - Außerdem könnte man für neue Bewohner eine Sozialraumbegehung/ Spaziergang anbieten, um die umliegenden Angebote (Geschäfte, Vereine etc.) kennenzulernen. 
 
-- Sprachkurs/ Nachhilfe (Einstieg in die Sprache und das Erlernen von ersten Worten) unter folgendem Link können die BW schon online starten:  LEARN GERMAN | DW Learn German. Lehrmaterial ist vorhanden.
+- Sprachkurs/ Nachhilfe (Einstieg in die Sprache und das Erlernen von ersten Worten) unter folgendem Link können die BW schon online starten:  [LEARN GERMAN](https://learngerman.dw.com/en/learn-german/s-9528). Lehrmaterial ist vorhanden.
 
 - Musikangebot: Wir suchen Menschen, die gemeinsam mit interessierten Bewohnern musizieren möchten. Außerdem werden Instrumente gesucht als Spende oder auf Leihbasis.
 

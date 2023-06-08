@@ -1,22 +1,27 @@
 ---
 layout: post
 title: "Informationen zur Notunterkunft im Schulzentrum Ahlem"
-date: 2021-10-19
+date: 2023-06-05
 ---
 
-Weiterhin kommen wöchentlich Menschen aus verschiedenen Herkunftsländern in der Notunterkunft im ehemaligen Schulzentrum in Ahlem an.
+Aktuell ist die  Situation in der Notunterkunft Ahlemso, dass dort jetzt ausschließlich einzelreisende Männer untergebracht werden. 
+Die Aufenthaltszeit der Bewohner in der Unterkunft hat sich stark verlängert.
+Deshalb möchten wir gemeinsam mit der Leitung der Unterkunft, Frau Wortmann, einen neuen Anlauf nehmen, mehr Angebote für die Bewohner zu schaffen. 
+Dafür benötigen wir mehr Unterstützer*innen.
+Neben dem bereits bestehenden Angeboten, Ordnerprojekt, Laufgruppe und verschiedene Sportangebote, sind folgende Angebote geplant:
 
-Die Neuaufnahme von Geflüchteten erfolgt immer am Donnerstag. Die Menschen, die dort ankommen, haben eine anstrengende Reise hinter sich. Deshalb haben sich beim Netzwerktreffen am Montag, 18.10., einige Unterstützer*innen gefunden, die eine Begrüßung für die Neuankömmlinge organisieren. Wer mithelfen möchte wende sich bitte an [johannes.meyer@evlka.de](mailto:johannes.meyer@evlka.de) .
+-  Willkommenscafe/ Abendbrot: Ziel ist es ein Angebot zu schaffen, über das Unterstützer*innen mit den Bewohnern ins Gespräch kommen können. Die Ausgestaltung ist noch völlig offen und kann zwischen den Ehrenamtlichen besprochen werden. Genauso, wie der Tag, an dem das Angebot stattfunden soll. Nur der Donnerstag ist ungünstig, da bei Einzügen die Ruhe für ein solches Projekt fehlt. 
 
-Nach wie vor ist die Eingangshalle nicht besonders gemütlich. Es werden noch kreative Ideen zur Verschönerung gesucht. Mittel sind vorhanden.
+- Außerdem könnte man für neue Bewohner eine Sozialraumbegehung/ Spaziergang anbieten, um die umliegenden Angebote (Geschäfte, Vereine etc.) kennenzulernen. 
 
-Leider gibt es auch weiterhin nicht viel Beschäftigung. Ein Kicker und Tischtennisplatten sind aufgebaut, aber es wäre schön, wenn sich Unterstützer*innen finden, die mit den BewohnerInnen ein kleines Turnier oder ähnliches organisieren könnten.
+- Sprachkurs/ Nachhilfe (Einstieg in die Sprache und das Erlernen von ersten Worten) unter folgendem Link können die BW schon online starten:  LEARN GERMAN | DW Learn German. Lehrmaterial ist vorhanden.
 
-Auch wäre es schön, wenn sich Personen finden, die den Bewohner*innen die Umgebung des Schulzentrums zeigen könnten, z. B. auf Einkaufsmöglichkeiten hinweisen, die Öffis und die Fahrkartenautomaten erklären.
+- Musikangebot: Wir suchen Menschen, die gemeinsam mit interessierten Bewohnern musizieren möchten. Außerdem werden Instrumente gesucht als Spende oder auf Leihbasis.
 
-Inzwischen gibt es auch ein niederschwelliges Deutschlernangebot. Ggfs. könnte man das noch ausbauen, wenn sich noch Unterstützer*innen finden, die in diesem Bereich mithelfen können.
-Räumlichkeiten mit Tafel stehen dafür zur Verfügung.
+Einen konkreten Termin git es bereits. Am 20.06. wird die gEMiDe-Selbsthilfefahrradwerkstatt von 16 bis 18 Uhr Vor-Ort sein und Fahrräder der Bewohner reparieren. Wir würden es toll finden, wenn Unterstützer*innen helfen könnten, den Nachmittag bunt zu machen, z.B. durch ein Angebot von Kuchen, Kaffee oder Tee. 
 
-Für die Einrichtung eines Bücherschranks werden noch Bücher in den Muttersprachen der Bewohner gesucht. Ein Ordnerprojekt könnte eingerichtet werden und es werden Ideen gesucht, wie man den Bewohnern ihr erstes Weihnachtsfest in Deutschland gestalten kann.
+Wir freuen uns über tatkräftige Unterstützung und Interessierte, die ins Ehrenamt schnuppern wollen. Wir sind auch offen für neue Projektideen.
 
-Wer Vorschläge zu einen dieser Themen oder noch andere Ideen hat, melde sich bitte unter Mailadresse [info.netzwerk11@web.de](mailto:info.netzwerk11@web.de) . Ich werde alle Angebote koordinieren und weiterleiten.
+Versicherung, Anmeldung, Bescheinigungen etc. für Ehrenamtliche können über das DRK laufen. 
+
+Ansprechpartnerin ist Frau Wortmann vom DRK (Tel. 0511 3671-5002 / Mail wortmann@drk-hannover.de)

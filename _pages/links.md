@@ -23,4 +23,6 @@ permalink: /links/
 
 <a href="https://basiswissen.asyl.net/start" target="_blank">Überblick über verschiedene Themen, die für geflüchtete Menschen und ihre Unterstützer*innen relevant sind</a>  
 
-<a href="https://integreat.app/hannover/de/beh%C3%B6rden-beratung-und-leistungen/beratungstellen/kommunale-fachstelle-f%C3%BCr-migrationsberatung" target="_blank">Kommunale Fachstelle für Migrationsberatung</a> 
+<a href="https://integreat.app/hannover/de/beh%C3%B6rden-beratung-und-leistungen/beratungstellen/kommunale-fachstelle-f%C3%BCr-migrationsberatung" target="_blank">Kommunale Fachstelle für Migrationsberatung</a>
+
+<a href="[https://integreat.app/hannover/de/beh%C3%B6rden-beratung-und-leistungen/beratungstellen/kommunale-fachstelle-f%C3%BCr-migrationsberatung](https://blog-foerdermittel.de/internetverzeichnis/)" target="_blank">Internetverzeichnis Fördermittel für Non-Profit Organisationen</a> 

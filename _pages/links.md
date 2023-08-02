@@ -25,4 +25,4 @@ permalink: /links/
 
 <a href="https://integreat.app/hannover/de/beh%C3%B6rden-beratung-und-leistungen/beratungstellen/kommunale-fachstelle-f%C3%BCr-migrationsberatung" target="_blank">Kommunale Fachstelle für Migrationsberatung</a>
 
-<a href="[https://integreat.app/hannover/de/beh%C3%B6rden-beratung-und-leistungen/beratungstellen/kommunale-fachstelle-f%C3%BCr-migrationsberatung](https://blog-foerdermittel.de/internetverzeichnis/)" target="_blank">Internetverzeichnis Fördermittel für Non-Profit Organisationen</a> 
+<a href="https://blog-foerdermittel.de/internetverzeichnis/" target="_blank">Internetverzeichnis Fördermittel für Non-Profit Organisationen (blog-foerdermittel.de)</a>

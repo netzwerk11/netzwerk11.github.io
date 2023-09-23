@@ -19,7 +19,7 @@ Mit dieser Frage beschäftigt sich der 3. Informationsabend zur Flüchtlingsarbe
 
 Für den musikalischen Rahmen sorgt das **Projekt „Sound of Hope“** aus Barsinghausen Außerdem können **kulinarische Spezialitäten** verschiedener Länder gekostet werden.
 
- 	![Plakat zum Infoabend](image.jpg)
+ 	<a href="../../img/galeriebild4.jpg" target="_blank"><img src="../../img/galeriebild4.jpg"/></a> 
 
 <br>
 Im Stadtbezirk 11 – Ahlem-Badenstedt-Davenstedt – wohnen derzeit ca. 600 Geflüchtete in den verschiedenen Unterkünften:

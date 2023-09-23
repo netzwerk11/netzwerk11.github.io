@@ -9,9 +9,9 @@ permalink: /
   
 <br> 
 
-13. Oktober Fr 18.00 - 21.00 Uhr
+**13. Oktober Fr 18.00 - 21.00 Uhr**
 
-Willkommen heißen – Integration ermöglichen
+## H2Willkommen heißen – Integration ermöglichen
 
 Wie kann ich Geflüchtete in Ahlem, Badenstedt und Davenstedt ehrenamtlich unterstützen?
 

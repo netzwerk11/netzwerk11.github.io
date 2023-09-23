@@ -9,7 +9,17 @@ permalink: /
   
 <br> 
 
+13. Oktober Fr 18.00 - 21.00 Uhr
 
+Willkommen heißen – Integration ermöglichen
+
+Wie kann ich Geflüchtete in Ahlem, Badenstedt und Davenstedt ehrenamtlich unterstützen?
+
+Mit dieser Frage beschäftigt sich der 3. Informationsabend zur Flüchtlingsarbeit im Stadtbezirk 11. In kurzen Vorträgen und Gesprächsrunden werden wir an diesem Abend die Situation in den Flüchtlingsunterkünften im Stadtbezirk vorstellen und über die Möglichkeiten zur Mitarbeit bei der Integration von Geflüchteten informieren. Es wird vielfältige Gelegenheiten geben, die unterschiedlichen Menschen und Organisationen kennenzulernen, die sich im Stadtteil Ahlem-Badenstedt-Davenstedt und darüber hinaus in der Hilfe für Geflüchtete engagieren. An Infoständen werden Vertreter der Flüchtlingsunterkünfte anwesend sein und vorstellen, welche Möglichkeiten es für ehrenamtliches Engagement in unserem Stadtbezirk gibt.
+
+Für den musikalischen Rahmen sorgt das Projekt „Sound of Hope“ aus Barsinghausen Außerdem können kulinarische Spezialitäten verschiedener Länder gekostet werden.
+
+<br>
 Im Stadtbezirk 11 – Ahlem-Badenstedt-Davenstedt – wohnen derzeit ca. 600 Geflüchtete in den verschiedenen Unterkünften:
 
 - Wohnheim Am Bahndamm

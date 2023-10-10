@@ -28,3 +28,6 @@ permalink: /links/
 <a href="https://blog-foerdermittel.de/internetverzeichnis/" target="_blank">Internetverzeichnis Fördermittel für Non-Profit Organisationen (blog-foerdermittel.de)</a>
 
 <a href="https://www.caritas.de/spendeundengagement/engagieren/ehrenamt/fluechtlinge/engagement-ratgeber" target="_blank">Tipps für die ehrenamtliche  Geflüchtetenhilfe</a>
+
+<a href="https://blog-foerdermittel.de/internetverzeichnis/" target="_blank">vhs-Ehrenamtsportal - Übungsblätter für die ehrenamtliche Lernbegleitung</a>
+

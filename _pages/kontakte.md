@@ -18,7 +18,7 @@ Tel.:  0511 45960584
 
 Handy: 015239550203
 
-Mail: benjamin.sender@johanniter.de
+Mail: hermann-ehlers-allee100.hannover@johanniter.de
 
 
 # **Flüchtlingswohnheim Woermannstraße**
@@ -50,7 +50,7 @@ Am Nordhang 9 A-D
 
 Tel.:  0511 60979820
 
-Mail: geisselbrecht@drk-hannover.de 
+Mail: patashuri@drk-hannover.de 
 
 
 # **Wohnprojekt Albrecht-Schaeffer-Weg**

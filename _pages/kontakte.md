@@ -48,7 +48,7 @@ Am Nordhang 9 A-D
 
 30453 Hannover
 
-Tel.:  0511 60979820
+Tel.:  0511 3671-5145
 
 Mail: patashuri@drk-hannover.de 
 

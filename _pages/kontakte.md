@@ -50,7 +50,7 @@ Am Nordhang 9 A-D
 
 Tel.:  0511 3671-5145
 
-Mail: patashuri@drk-hannover.de 
+Mail: unterkunft-nordhang@drk-hannover.de
 
 
 # **Wohnprojekt Albrecht-Schaeffer-Weg**
@@ -67,19 +67,5 @@ Tel.:  0511 76309017
 
 Mail: Albrecht-Schaeffer109@fair-facility.de
 
-
-# **Notunterkunft Ahlem**
-
-Betreiber: Deutsches Rotes Kreuz
-
-Anschrift:
-
-Petit-Couronne-Straße 30 
-
-30453 Hannover
-
-Telefon: 01705200656
-
-Mail: unterkunft-petitcouronne@drk-hannover.de
 
 

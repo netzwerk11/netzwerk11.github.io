@@ -36,3 +36,5 @@ permalink: /links/
 <a href="https://www.hannover.de/Testbereich-online/Region-Hannover/Tests-AL-%E2%80%93-Testbereich-online/Gastzugang/Deutsch-lernen/Wo-bekomme-ich-Beratung/Angebote-f%C3%BCr-Migrant*innen" target="_blank">Migrationsberatung für erwachsene Zuwanderer (MBE) - Beratungsstellen in Hannover</a>
 
 <a href="https://www.kirchenasyl.de/portfolio/haende-weg-vom-kirchenasyl-merkblatt-fuer-die-kirchenasyl-bewegung/" target="_blank">Merkblatt Kirchenasyl</a>
+
+<a href="https://www.hannover.de/Leben-in-der-Region-Hannover/Soziales/Sozialleistungen-weitere-Hilfen/Bildungs-und-Teilhabepaket" target="_blank">Bildungs- und Teilhabepaket</a>

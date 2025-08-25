@@ -53,19 +53,7 @@ Tel.:  0511 3671-5145
 Mail: unterkunft-nordhang@drk-hannover.de
 
 
-# **Wohnprojekt Albrecht-Schaeffer-Weg**
 
-Betreiber: FAIR Facility Management GmbH & Co KG
-
-Anschrift:
-
-Albrecht-Schaeffer-Weg 107 - 109
-
-30455 Hannover
-
-Tel.:  0511 76309017
-
-Mail: Albrecht-Schaeffer109@fair-facility.de
 
 
 

@@ -4,23 +4,6 @@ title: Kontakte
 permalink: /kontakte/
 ---
 
-# **Wohnprojekt Hermann-Ehlers-Allee**
-
-Betreiber: Johanniter-Unfall-Hilfe e.V.
-
-Anschrift:
-
-Hermann-Ehlers-Allee 100
-
-30455 Hannover
-
-Tel.:  0511 45960584
-
-Handy: 015239550203
-
-Mail: hermann-ehlers-allee100.hannover@johanniter.de
-
-
 # **Flüchtlingswohnheim Woermannstraße**
 
 Betreiber: Johanniter-Unfall-Hilfe e.V.

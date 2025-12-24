@@ -14,7 +14,6 @@ Im Stadtbezirk 11 – Ahlem-Badenstedt-Davenstedt – wohnen derzeit ca. 600 Gef
 - Wohnheim Am Bahndamm
 - Wohnheim Am Nordhang
 - Wohnheim Woermannstraße
-- Wohnprojekt Hermann-Ehlers-Allee  
 
 
 Das Netzwerk11 für Flüchtlingshilfe trifft sich regelmäßig Uhr im Kulturtreff Plantage. Die Treffen sind öffentlich und alle, die an der Unterstützung von Geflüchteten im Stadtbezirk interessiert sind, sind herzlich eingeladen. Interessierte können sich unter untengenannter Mail-Adresse anmelden.

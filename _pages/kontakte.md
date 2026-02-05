@@ -16,8 +16,6 @@ Woermannstraße 47 A-F
 
 Tel.: 0511 60979820
 
-Handy: 015239550216
-
 Mail: woermannstrasse47.hannover@johanniter.de
 
 

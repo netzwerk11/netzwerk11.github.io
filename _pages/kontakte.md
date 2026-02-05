@@ -19,7 +19,7 @@ Tel.: 0511 60979820
 Mail: woermannstrasse47.hannover@johanniter.de
 
 
-# **Wohnheim Am Nordhang**
+# **Flüchtlingswohnheim Am Nordhang**
 
 Betreiber: Deutsches Rotes Kreuz – Soziale Dienste in der Region Hannover gem. GmbH
 
@@ -34,7 +34,7 @@ Tel.:  0511 3671-5145
 Mail: unterkunft-nordhang@drk-hannover.de
 
 
-# **Flüchtlingswohnheim Am Bahndamm**
+# **Wohnheim Am Bahndamm**
 
 Betreiber: Johanniter-Unfall-Hilfe e.V.
 

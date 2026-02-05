@@ -4,7 +4,7 @@ title: "Einbürgerungsportal"
 date: 2026-02-05
 ---
 
-Antrag auf Einbürgerung - Mein Weg zur Einbürgerung
+# **Antrag auf Einbürgerung - Mein Weg zur Einbürgerung**
 
 Wer bereits viele Jahre in Deutschland lebt und sich hier zuhause fühlt, kann sich unter bestimmten Voraussetzungen einbürgern lassen.
 

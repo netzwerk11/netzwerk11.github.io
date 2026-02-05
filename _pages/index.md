@@ -8,13 +8,14 @@ permalink: /
 
   
 
-<br>
+
 Im Stadtbezirk 11 – Ahlem-Badenstedt-Davenstedt – wohnen derzeit  Geflüchtete in den  Unterkünften:
 
-    • Wohnheim Am Bahndamm 
-    • Wohnheim Am Nordhang 
-    • Wohnheim Woermannstraße 
-    
+
+                          Wohnheim Am Bahndamm
+                          Wohnheim Am Nordhang
+                          Wohnheim Woermannstraße
+                          
 Das Netzwerk11 für Flüchtlingshilfe ist ein Zusammenschluss von Ehrenamtlichen, Vertretern aus Politik und Verwaltung, sowie anderen Interessierten an der Flüchtlingshilfe. 
 Es erfolgt ein regelmäßiger Austausch über einen E-Mail-Verteiler. Anmeldung ist unter untengenannten Mail-Adresse möglich.
 

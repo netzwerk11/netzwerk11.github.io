@@ -21,7 +21,7 @@ Handy: 015239550216
 Mail: woermannstrasse47.hannover@johanniter.de
 
 
-# **Flüchtlingswohnheim Am Nordhang**
+# **Wohnheim Am Nordhang**
 
 Betreiber: Deutsches Rotes Kreuz – Soziale Dienste in der Region Hannover gem. GmbH
 
